@@ -1,5 +1,5 @@
 //
-//  input02.c
+//  input.c
 //  cosmosDiscipline
 //
 //  Created by 神部翔汰 on 2020/01/27.
